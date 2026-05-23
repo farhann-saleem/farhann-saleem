@@ -18,9 +18,6 @@ Building things nobody asked me to. Shipping anyway
 
 <div align="center">
   <p align="center">
-    <strong>Building things nobody asked me to. Shipping anyway.</strong>
-  </p>
-  <p align="center">
     <a href="https://vaeryx.com/"><b>Founder @ Vaeryx</b></a> &nbsp;&bull;&nbsp;
     <a href="https://medigify.com/"><b>CTO @ Medigify</b></a> &nbsp;&bull;&nbsp;
     <b>ML/AI Co-Lead @ GDGoC LGU</b>
@@ -40,15 +37,10 @@ Building things nobody asked me to. Shipping anyway
 
 ## What I'm Building Right Now
 
-**[jmcp](https://github.com/farhann-saleem/jmcp)** :incident debugging CLI for Jaeger via MCP. From "something is broken" to documented root cause without leaving the terminal. Written in Go. Single static binary. Zero external dependencies. 3 releases shipped.
+**[Vaeryx](https://vaeryx.com/)** : Founder & Lead Architect. Currently in the trenches defining our Ideal Customer Profile (ICP), iterating aggressively on the product, and driving toward product-market fit.
 
-```bash
-jmcp search --errors --since 15m frontend   # find failing traces
-jmcp blame @1                               # root cause in one command
-jmcp report --title "Checkout 500s" @1     # incident report, done
-```
+The thing about Vaeryx: It's forcing me to grow beyond just writing code. Right now, my workflow is a tight loop of talking to users, ruthlessly cutting features that don't matter, and engineering the core platform to scale based on raw market feedback. Shipping code is easy; shipping the *right* product that people actually need is the real engineering challenge I'm solving right now.
 
-The thing about this project: I built it while contributing PRs to Jaeger upstream. Using the tool to understand the codebase. Then improving the codebase with what I learned. That loop is how I actually get things done.
 
 ---
 
