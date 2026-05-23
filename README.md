@@ -16,18 +16,31 @@ Building things nobody asked me to. Shipping anyway
 
 ## About Me
 
-ML/AI engineer contributing to CNCF and Red Hat projects because I believe credibility is built through shipped code, not certificates. Targeting **GSoC and LFX**. Not the fastest, but consistent.
+<div align="center">
+  <p align="center">
+    <strong>Building things nobody asked me to. Shipping anyway.</strong>
+  </p>
+  <p align="center">
+    <a href="https://vaeryx.com/"><b>Founder @ Vaeryx</b></a> &nbsp;&bull;&nbsp;
+    <a href="https://medigify.com/"><b>CTO @ Medigify</b></a> &nbsp;&bull;&nbsp;
+    <b>ML/AI Co-Lead @ GDGoC LGU</b>
+  </p>
+  <p align="center">
+    <i>ML/AI engineer contributing to CNCF, Red Hat, and Y Combinator open-source projects.</i>
+  </p>
+</div>
 
-- Backend Intern at **TheCodeV Ltd** — built FastAPI systems serving 1000+ requests
-- Published **[CheckMate AI](https://pypi.org/project/checkmate-ai/)** on PyPI — AI security scanner with 22% precision improvement
-- Built **[jmcp](https://github.com/farhann-saleem/jmcp)** — a Go CLI for Jaeger trace debugging while actively contributing to Jaeger upstream
+
+- Backend Intern at **TheCodeV Ltd** : built FastAPI systems serving 1000+ requests
+- Published **[CheckMate AI](https://pypi.org/project/checkmate-ai/)** on PyPI :  AI security scanner with 22% precision improvement - 635 downloads 
+- Built **[jmcp](https://github.com/farhann-saleem/jmcp)** :  a Go CLI for Jaeger trace debugging while actively contributing to Jaeger upstream
 - ML/AI Co-Lead at **GDGoC LGU**
 
 ---
 
 ## What I'm Building Right Now
 
-**[jmcp](https://github.com/farhann-saleem/jmcp)** — incident debugging CLI for Jaeger via MCP. From "something is broken" to documented root cause without leaving the terminal. Written in Go. Single static binary. Zero external dependencies. 3 releases shipped.
+**[jmcp](https://github.com/farhann-saleem/jmcp)** :incident debugging CLI for Jaeger via MCP. From "something is broken" to documented root cause without leaving the terminal. Written in Go. Single static binary. Zero external dependencies. 3 releases shipped.
 
 ```bash
 jmcp search --errors --since 15m frontend   # find failing traces
@@ -96,7 +109,4 @@ Projects I've touched: Jaeger, krkn, Meshery, Vitess, KubeEdge/Ianvs, Kubeflow, 
 ---
 
 <div align="center">
-
-*Work in silence. Life knows how to turn the tables.*
-
 </div>
