@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Farhan!;ML+Engineer+%26+OSS+Contributor;Cloud-Native+Builder;Work+in+silence.+Ship+often.)](https://git.io/typing-svg)
 
-Building things nobody asked me to. Shipping anyway
+Building systems, engineering ML pipelines, shipping open source.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaudary-farhan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhann-saleem)
@@ -27,61 +27,71 @@ Building things nobody asked me to. Shipping anyway
   </p>
 </div>
 
-
-- Backend Intern at **TheCodeV Ltd** : built FastAPI systems serving 1000+ requests
-- Published **[CheckMate AI](https://pypi.org/project/checkmate-ai/)** on PyPI :  AI security scanner with 22% precision improvement - 635 downloads 
-- Built **[jmcp](https://github.com/farhann-saleem/jmcp)** :  a Go CLI for Jaeger trace debugging while actively contributing to Jaeger upstream
+- **Founder at Vaeryx** : Building next-generation developer tooling and product platforms
+- **CTO at Medigify** : Architected Medical MCQ test platform from zero to production (10+ paid users, 25+ modules sold)
+- Published **[CheckMate AI](https://pypi.org/project/checkmate-ai/)** on PyPI : AI code security scanner with Human-in-the-Loop feedback (700+ downloads)
 - ML/AI Co-Lead at **GDGoC LGU**
 
 ---
 
 ## What I'm Building Right Now
 
-**[Vaeryx](https://vaeryx.com/)** : Founder & Lead Architect. Currently in the trenches defining our Ideal Customer Profile (ICP), iterating aggressively on the product, and driving toward product-market fit.
+### Serverless Generative AI & Video Pipeline
+Designing a modular, serverless content generation ecosystem powered by open-source models:
+- **Kenjaku** : Pipeline orchestrator for scene analysis and script synthesis (Qwen, Qwen-Edit, LTX 2.5, KREA2)
+- **Rika** : Automated voice extraction and speaker diarization CLI pipeline (WhisperX, Chatterbox, LoRA fine-tuning)
+- **Cursed Speech** : Serverless voice inference engine with dynamic LoRA weight injection via Cloudflare R2
+- **Cursed Resonance** : Dynamic VRAM model swapping on RunPod Serverless for music and SFX generation (ACE-Step, ControlFoley)
 
-The thing about Vaeryx: It's forcing me to grow beyond just writing code. Right now, my workflow is a tight loop of talking to users, ruthlessly cutting features that don't matter, and engineering the core platform to scale based on raw market feedback. Shipping code is easy; shipping the *right* product that people actually need is the real engineering challenge I'm solving right now.
-
+### Vaeryx & Medigify
+- **Vaeryx** : Iterating on core platform architecture and product validation
+- **Medigify** : Scaling full-stack exam engine infrastructure and content delivery
 
 ---
 
 ## Contribution Stats
 
-> Updated each contribution cycle. Full breakdown in [Open_Source_Contributions](https://github.com/farhann-saleem/Open_Source_Contributions).
+> Full detailed breakdown in [Open_Source_Contributions](https://github.com/farhann-saleem/Open_Source_Contributions).
 
-| Category | Merged PRs | Open PRs | Issues Found |
+| Ecosystem | Merged PRs | Open PRs | Issues Found |
 | :--- | :---: | :---: | :---: |
-| **CNCF Projects** | **7** | **7** | **2** |
-| **Red Hat Projects** | **7** | **2** | **4** |
+| **CNCF Projects** | **9** | **6** | **2** |
+| **Red Hat Projects** | **8** | **2** | **5** |
+| **Y Combinator Startups** | **2** | **0** | **1** |
 | **Community & Startup** | **5** | **1** | **0** |
-| **Total Contributions** | **19** | **10** | **6** |
+| **Total Impact** | **24** | **9** | **8** |
 
-Projects I've touched: Jaeger, krkn, Meshery, Vitess, KubeEdge/Ianvs, Kubeflow, Drasi, sktime, PyCaret.
+**Upstream Repositories Touched:** Hermeto, Jaeger, Traceroot, Meshery, Vitess, Krkn, KubeEdge/Ianvs, Kubeflow, Drasi, sktime, PyCaret.
 
 ---
 
-## Tech Stack
+## Tech Stack & Open Source Models
 
-**Languages**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=white)
 
-**ML / AI**
+**ML, AI & Generative Models**
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface&logoColor=FFD21E)
-![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=mlflow&logoColor=0194E2)
+![Qwen](https://img.shields.io/badge/-Qwen-05122A?style=flat&logo=openai&logoColor=1A6AFF)
+![WhisperX](https://img.shields.io/badge/-WhisperX-05122A?style=flat)
+![Chatterbox](https://img.shields.io/badge/-Chatterbox-05122A?style=flat)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)
 
-**Backend & Cloud**
+**Infrastructure & Cloud**
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)
+![RunPod](https://img.shields.io/badge/-RunPod-05122A?style=flat&logo=runpod&logoColor=673AB7)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare&logoColor=F38020)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=2088FF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
 
@@ -94,11 +104,10 @@ Projects I've touched: Jaeger, krkn, Meshery, Vitess, KubeEdge/Ianvs, Kubeflow, 
 ![Farhan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=farhann-saleem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhann-saleem&layout=compact&langs_count=8&theme=algolia)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=farhann-saleem&theme=gotham&hide_border=true)](https://github.com/farhann-saleem)
-
 </div>
 
 ---
 
 <div align="center">
+  <sub>Maintained by Farhan Saleem</sub>
 </div>
