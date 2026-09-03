@@ -67,16 +67,11 @@ Designing a modular, serverless content generation ecosystem powered by open-sou
 
 ## Tech Stack & Open Source Models
 
-**Languages & Frameworks**
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=white)
-
-**ML, AI & Generative Models**
-
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface&logoColor=FFD21E)
@@ -84,9 +79,6 @@ Designing a modular, serverless content generation ecosystem powered by open-sou
 ![WhisperX](https://img.shields.io/badge/-WhisperX-05122A?style=flat)
 ![Chatterbox](https://img.shields.io/badge/-Chatterbox-05122A?style=flat)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)
-
-**Infrastructure & Cloud**
-
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)
