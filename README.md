@@ -40,6 +40,8 @@ Building systems, engineering ML pipelines, shipping open source.
 
 [![Kenjaku](https://img.shields.io/badge/Kenjaku-Orchestrator-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/kenjaku-yt-videos-DNA-extraction) &nbsp;[![Rika](https://img.shields.io/badge/Rika-Voice_Clone-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/rika-voice-clone-yt) &nbsp;[![Cursed Speech](https://img.shields.io/badge/Cursed_Speech-TTS_呪言-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/cursed-speech) &nbsp;[![Cursed Resonance](https://img.shields.io/badge/Cursed_Resonance-Audio_共鳴り-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/curssed-resonance)
 
+**Powered by** &nbsp;![Chatterbox](https://img.shields.io/badge/Chatterbox-e67e22?style=flat) &nbsp;![LTX 2.5](https://img.shields.io/badge/LTX_2.5-8e44ad?style=flat) &nbsp;![Qwen](https://img.shields.io/badge/Qwen-1a6aff?style=flat) &nbsp;![KREA2](https://img.shields.io/badge/KREA2-e74c3c?style=flat) &nbsp;![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) &nbsp;![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white) &nbsp;![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=flat)
+
 - **[Vaeryx](https://vaeryx.com/)** : Founder & Lead Architect. Building next-generation developer tooling.
 - **[Medigify](https://medigify.com/)** : CTO & Lead Developer. Medical MCQ test platform (10+ paid users, 25+ modules sold).
 
