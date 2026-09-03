@@ -36,16 +36,56 @@ Building systems, engineering ML pipelines, shipping open source.
 
 ## What I'm Building Right Now
 
-### Serverless Generative AI & Video Pipeline
-Designing a modular, serverless content generation ecosystem powered by open-source models:
-- **Kenjaku** : Pipeline orchestrator for scene analysis and script synthesis (Qwen, Qwen-Edit, LTX 2.5, KREA2)
-- **Rika** : Automated voice extraction and speaker diarization CLI pipeline (WhisperX, Chatterbox, LoRA fine-tuning)
-- **Cursed Speech** : Serverless voice inference engine with dynamic LoRA weight injection via Cloudflare R2
-- **Cursed Resonance** : Dynamic VRAM model swapping on RunPod Serverless for music and SFX generation (ACE-Step, ControlFoley)
+### AI Content Pipeline
 
-### Vaeryx & Medigify
-- **Vaeryx** : Iterating on core platform architecture and product validation
-- **Medigify** : Scaling full-stack exam engine infrastructure and content delivery
+> Fully-automated, serverless system for AI-generated YouTube videos — from orchestration to voice to audio, every layer is a swappable engine.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Kenjaku** &nbsp; `Orchestrator`
+
+Scene analysis, script generation, and stage coordination. The brain of the pipeline.
+
+[![GitHub](https://img.shields.io/badge/GitHub-kenjaku-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/kenjaku-yt-videos-DNA-extraction)
+
+</td>
+<td width="50%" valign="top">
+
+**Rika** &nbsp; `Voice Clone Engine`
+
+Clones any voice from a YouTube video using WhisperX + LoRA fine-tuning. Zero manual work.
+
+[![GitHub](https://img.shields.io/badge/GitHub-rika-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/rika-voice-clone-yt)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Cursed Speech** &nbsp; `TTS Engine` &nbsp; 呪言
+
+Serverless voice inference. Pulls LoRA weights from R2 and injects into a base model on-the-fly — infinite voices, zero idle cost.
+
+[![GitHub](https://img.shields.io/badge/GitHub-cursed--speech-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/cursed-speech)
+
+</td>
+<td width="50%" valign="top">
+
+**Cursed Resonance** &nbsp; `Audio & SFX` &nbsp; 共鳴り
+
+Generates music and SFX by hot-swapping ACE-Step and ControlFoley in VRAM on a single GPU.
+
+[![GitHub](https://img.shields.io/badge/GitHub-cursed--resonance-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/curssed-resonance)
+
+</td>
+</tr>
+</table>
+
+### Startups
+- **[Vaeryx](https://vaeryx.com/)** : Founder & Lead Architect. Building next-generation developer tooling.
+- **[Medigify](https://medigify.com/)** : CTO & Lead Developer. Medical MCQ test platform (10+ paid users, 25+ modules sold).
 
 ---
 
