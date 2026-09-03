@@ -36,54 +36,10 @@ Building systems, engineering ML pipelines, shipping open source.
 
 ## What I'm Building Right Now
 
-### AI Content Pipeline
+`Kenjaku` &nbsp;**&rarr;**&nbsp; `Rika` &nbsp;**&rarr;**&nbsp; `Cursed Speech` &nbsp;**&rarr;**&nbsp; `Cursed Resonance`
 
-> Fully-automated, serverless system for AI-generated YouTube videos — from orchestration to voice to audio, every layer is a swappable engine.
+[![Kenjaku](https://img.shields.io/badge/Kenjaku-Orchestrator-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/kenjaku-yt-videos-DNA-extraction) &nbsp;[![Rika](https://img.shields.io/badge/Rika-Voice_Clone-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/rika-voice-clone-yt) &nbsp;[![Cursed Speech](https://img.shields.io/badge/Cursed_Speech-TTS_呪言-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/cursed-speech) &nbsp;[![Cursed Resonance](https://img.shields.io/badge/Cursed_Resonance-Audio_共鳴り-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/curssed-resonance)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Kenjaku** &nbsp; `Orchestrator`
-
-Scene analysis, script generation, and stage coordination. The brain of the pipeline.
-
-[![GitHub](https://img.shields.io/badge/GitHub-kenjaku-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/kenjaku-yt-videos-DNA-extraction)
-
-</td>
-<td width="50%" valign="top">
-
-**Rika** &nbsp; `Voice Clone Engine`
-
-Clones any voice from a YouTube video using WhisperX + LoRA fine-tuning. Zero manual work.
-
-[![GitHub](https://img.shields.io/badge/GitHub-rika-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/rika-voice-clone-yt)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Cursed Speech** &nbsp; `TTS Engine` &nbsp; 呪言
-
-Serverless voice inference. Pulls LoRA weights from R2 and injects into a base model on-the-fly — infinite voices, zero idle cost.
-
-[![GitHub](https://img.shields.io/badge/GitHub-cursed--speech-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/cursed-speech)
-
-</td>
-<td width="50%" valign="top">
-
-**Cursed Resonance** &nbsp; `Audio & SFX` &nbsp; 共鳴り
-
-Generates music and SFX by hot-swapping ACE-Step and ControlFoley in VRAM on a single GPU.
-
-[![GitHub](https://img.shields.io/badge/GitHub-cursed--resonance-181717?style=flat&logo=github&logoColor=white)](https://github.com/farhann-saleem/curssed-resonance)
-
-</td>
-</tr>
-</table>
-
-### Startups
 - **[Vaeryx](https://vaeryx.com/)** : Founder & Lead Architect. Building next-generation developer tooling.
 - **[Medigify](https://medigify.com/)** : CTO & Lead Developer. Medical MCQ test platform (10+ paid users, 25+ modules sold).
 
